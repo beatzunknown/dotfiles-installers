@@ -1,0 +1,8 @@
+CookieManager
+Proxy SwitchyOmega
+Shodan
+Wappalyzer
+NoScript
+AdBlock Plus
+cookies.txt
+Enhancer for YouTube
