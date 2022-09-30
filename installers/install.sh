@@ -179,3 +179,9 @@ rm pia-linux.run
 wget -qO askii.deb https://github.com/nytopop/askii/releases/download/v0.6.0/askii_0.6.0_amd64.deb
 sudo apt install -y ./askii.deb
 rm askii.deb
+
+# Discord
+wget -O discord.deb "https://discordapp.com/api/download?platform=linux&format=deb"
+sudo dpkg -i discord.deb || sudo apt -f install
+rm discord.deb
+
