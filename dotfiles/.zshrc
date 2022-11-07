@@ -149,6 +149,7 @@ alias adb="adb.exe"
 alias stegsolve="cmd.exe /c stegsolve.jar"
 alias exercism="exercism.exe"
 alias downonspot="/mnt/c/apps/DownOnSpot/target/release/down_on_spot"
+alias adb-sync-music="adb.exe push --sync D:\\music /storage/9C33-6BBD/"
 
 ### USEFUL FUNCTIONS ###
 
